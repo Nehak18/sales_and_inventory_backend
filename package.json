@@ -1,0 +1,17 @@
+{
+  "name": "sales_and_inventory_backend",
+  "version": "1.0.0",
+  "description": "sales_and_inventory_management",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "mongodb",
+    "express",
+    "rest",
+    "API"
+  ],
+  "author": "Neha_Payal_Prajakta",
+  "license": "ISC"
+}
